@@ -1,0 +1,9 @@
+body{
+    background-image: url('path/to/background-image.jpg');
+}
+.p-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
